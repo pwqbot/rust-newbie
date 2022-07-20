@@ -1,0 +1,11 @@
+/home/ubuntu/github/rust-newbie/guessing_game/target/debug/deps/getrandom-5315293faccd36b4.rmeta: /home/ubuntu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.7/src/lib.rs /home/ubuntu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.7/src/error.rs /home/ubuntu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.7/src/util.rs /home/ubuntu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.7/src/error_impls.rs /home/ubuntu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.7/src/util_libc.rs /home/ubuntu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.7/src/use_file.rs /home/ubuntu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.7/src/linux_android.rs
+
+/home/ubuntu/github/rust-newbie/guessing_game/target/debug/deps/getrandom-5315293faccd36b4.d: /home/ubuntu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.7/src/lib.rs /home/ubuntu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.7/src/error.rs /home/ubuntu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.7/src/util.rs /home/ubuntu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.7/src/error_impls.rs /home/ubuntu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.7/src/util_libc.rs /home/ubuntu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.7/src/use_file.rs /home/ubuntu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.7/src/linux_android.rs
+
+/home/ubuntu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.7/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.7/src/error.rs:
+/home/ubuntu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.7/src/util.rs:
+/home/ubuntu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.7/src/error_impls.rs:
+/home/ubuntu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.7/src/util_libc.rs:
+/home/ubuntu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.7/src/use_file.rs:
+/home/ubuntu/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.7/src/linux_android.rs:
